@@ -1,5 +1,5 @@
 # SHELL
-Birbiriyle Memory paylaşımı yapan multi-shell uygulamasını arkadaşım Mustafa Sevgili ile yaptık.
+Birbiriyle Memory paylaşımı yapan multi-shell uygulamasını yaptık.
 
 singleshell.c içerisinde shell script uygulaması yaptık linux terminal komutlarının hepsi çalışır durumda.
 multishell.c içersinde terminalde derlenirken verilern parametre kadar xterm uygulaması açılmaktadır ve bu xterm singleshell.c ' yi çalıştırmaktadır. 
